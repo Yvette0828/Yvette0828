@@ -17,5 +17,7 @@ Hi, I'm Yvette, an AI Engineer from Taiwan 🇹🇼
 
 
 ##### Other Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yvette0828&&hide=contribs,issues&show_icons=true&theme=rose&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvette0828&layout=donut&theme=rose)
+<p>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yvette0828&hide=contribs,issues&show_icons=true&theme=rose&count_private=true&include_all_commits=true" alt="Yvette's github stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvette0828&layout=compact&count_private=true&theme=rose" alt="Yvette's language stats" />
+</p>
